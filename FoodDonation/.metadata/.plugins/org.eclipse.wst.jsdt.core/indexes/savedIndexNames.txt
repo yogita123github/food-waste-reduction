@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\ASUS\Desktop\SEM II (MCA)JAVA-Springboot\SEM II (JAVA-Spring) Project\FoodWaste Final\Project 100%\Project\FoodDonation\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+216271660.index
+3657598312.index
+1117196609.index
+2032283501.index
+1953751654.index
+2347491919.index
